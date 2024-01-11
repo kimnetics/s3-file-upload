@@ -1,6 +1,10 @@
 # s3-file-upload
 
+## Description
+
 Provides an example of how to use an S3 pre-signed URL to upload a file.
+
+## Instructions
 
 Edit the `index.js` script.
 
