@@ -1,7 +1,7 @@
 {
   "name": "s3-file-upload",
   "version": "1.0.0",
-  "description": "A simple example of using an S3 presigned POST request.",
+  "description": "A simple example of using an S3 pre-signed URL to upload a file.",
   "main": "index.js",
   "type": "module",
   "dependencies": {
